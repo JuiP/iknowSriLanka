@@ -1,0 +1,1130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 13:35-0400\n"
+"PO-Revision-Date: 2020-05-09 04:53+0000\n"
+"Last-Translator: Jui  <juipradhan2k@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1588999999.000000\n"
+
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
+msgid "I know Sri Lanka"
+msgstr "मला श्रीलंका माहित आहे"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "A game of the geography of Sri Lanka"
+msgstr "श्रीलंकेच्या भूगोलाचा खेळ"
+
+#: conozco.py:246 conozco.py:361 conozco.py:385 conozco.py:441 conozco.py:577
+#, python-format
+msgid "Cannot open %s"
+msgstr "उघडू शकत नाही %s"
+
+#: conozco.py:465
+#, python-format
+msgid ""
+"the city of\n"
+"%s"
+msgstr "शहर%s"
+
+#: conozco.py:474
+#, python-format
+msgid ""
+"the department of\n"
+"%s"
+msgstr "विभाग%s"
+
+#: conozco.py:483
+#, python-format
+msgid ""
+"the province of\n"
+"%s"
+msgstr "प्रांत%s"
+
+#: conozco.py:492
+#, python-format
+msgid ""
+"the district of\n"
+"%s"
+msgstr "जिल्हा%s"
+
+#: conozco.py:501
+#, python-format
+msgid ""
+"the state of\n"
+"%s"
+msgstr "राज्य%s"
+
+#: conozco.py:510
+#, python-format
+msgid ""
+"the region of\n"
+"%s"
+msgstr "चा प्रदेश%s"
+
+#: conozco.py:519
+#, python-format
+msgid ""
+"the parish of\n"
+"%s"
+msgstr ""
+
+#: conozco.py:528
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr "च्या तालुका%s"
+
+#: conozco.py:537
+#, python-format
+msgid ""
+"the municipality of\n"
+"%s"
+msgstr "%sच्या नगरपालिका"
+
+#: conozco.py:546
+#, python-format
+msgid "the %s"
+msgstr "%s"
+
+#: conozco.py:615
+#, python-format
+msgid "About %s"
+msgstr "%s बद्दल"
+
+#: conozco.py:629
+msgid "Press any key to return"
+msgstr "परत येण्यासाठी कोणतीही की दाबा"
+
+#: conozco.py:660
+msgid "You have chosen the map "
+msgstr "आपण नकाशा निवडला आहे"
+
+#: conozco.py:666
+msgid "Play"
+msgstr "खेळा"
+
+#: conozco.py:682
+msgid "Explore"
+msgstr "अन्वेषण"
+
+#: conozco.py:702 conozco.py:846
+msgid "About this game"
+msgstr ""
+
+#: conozco.py:710
+msgid "Return"
+msgstr ""
+
+#: conozco.py:767
+msgid "Choose the map to use"
+msgstr ""
+
+#: conozco.py:787
+msgid "Previous page"
+msgstr ""
+
+#: conozco.py:832
+msgid "Next page"
+msgstr ""
+
+#: conozco.py:853
+msgid "Exit"
+msgstr ""
+
+#: conozco.py:1319 conozco.py:1517
+msgid "End"
+msgstr ""
+
+#: conozco.py:1330
+msgid "Show all"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:5
+msgid "Sri Lanka"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:8
+#: recursos/0srilanka/datos/levels.py:11 recursos/0srilanka/datos/levels.py:38
+#: recursos/0srilanka/datos/levels.py:57 recursos/0srilanka/datos/levels.py:58
+#: recursos/0srilanka/datos/levels.py:59 recursos/0srilanka/datos/levels.py:60
+#: recursos/0srilanka/datos/levels.py:61 recursos/0srilanka/datos/levels.py:62
+#: recursos/0srilanka/datos/levels.py:63 recursos/0srilanka/datos/levels.py:64
+#: recursos/0srilanka/datos/levels.py:65 recursos/0srilanka/datos/levels.py:66
+#: recursos/0srilanka/datos/levels.py:67 recursos/0srilanka/datos/levels.py:68
+#: recursos/0srilanka/datos/levels.py:69 recursos/0srilanka/datos/levels.py:70
+#: recursos/0srilanka/datos/levels.py:71 recursos/0srilanka/datos/levels.py:72
+#: recursos/0srilanka/datos/levels.py:73
+msgid "North Eastern"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:9
+#: recursos/0srilanka/datos/levels.py:12 recursos/0srilanka/datos/levels.py:33
+#: recursos/0srilanka/datos/levels.py:52 recursos/0srilanka/datos/levels.py:78
+#: recursos/0srilanka/datos/levels.py:79 recursos/0srilanka/datos/levels.py:80
+#: recursos/0srilanka/datos/levels.py:81 recursos/0srilanka/datos/levels.py:85
+#: recursos/0srilanka/datos/levels.py:86 recursos/0srilanka/datos/levels.py:87
+#: recursos/0srilanka/datos/levels.py:92
+msgid "North Central"
+msgstr "उत्तर मध्य"
+
+#: recursos/0srilanka/datos/0srilanka.py:10
+#: recursos/0srilanka/datos/levels.py:13 recursos/0srilanka/datos/levels.py:37
+#: recursos/0srilanka/datos/levels.py:56 recursos/0srilanka/datos/levels.py:82
+#: recursos/0srilanka/datos/levels.py:83 recursos/0srilanka/datos/levels.py:84
+#: recursos/0srilanka/datos/levels.py:88 recursos/0srilanka/datos/levels.py:97
+#: recursos/0srilanka/datos/levels.py:98 recursos/0srilanka/datos/levels.py:99
+#: recursos/0srilanka/datos/levels.py:100
+#: recursos/0srilanka/datos/levels.py:101
+#: recursos/0srilanka/datos/levels.py:116
+msgid "North Western"
+msgstr "उत्तर पश्चिम"
+
+#: recursos/0srilanka/datos/0srilanka.py:11
+#: recursos/0srilanka/datos/levels.py:14 recursos/0srilanka/datos/levels.py:36
+#: recursos/0srilanka/datos/levels.py:55 recursos/0srilanka/datos/levels.py:95
+#: recursos/0srilanka/datos/levels.py:96
+#: recursos/0srilanka/datos/levels.py:108
+#: recursos/0srilanka/datos/levels.py:115
+#: recursos/0srilanka/datos/levels.py:122
+msgid "Central"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:12
+#: recursos/0srilanka/datos/levels.py:15 recursos/0srilanka/datos/levels.py:35
+#: recursos/0srilanka/datos/levels.py:54 recursos/0srilanka/datos/levels.py:74
+#: recursos/0srilanka/datos/levels.py:75 recursos/0srilanka/datos/levels.py:76
+#: recursos/0srilanka/datos/levels.py:77 recursos/0srilanka/datos/levels.py:89
+#: recursos/0srilanka/datos/levels.py:90 recursos/0srilanka/datos/levels.py:91
+#: recursos/0srilanka/datos/levels.py:93 recursos/0srilanka/datos/levels.py:94
+#: recursos/0srilanka/datos/levels.py:102
+#: recursos/0srilanka/datos/levels.py:103
+#: recursos/0srilanka/datos/levels.py:104
+#: recursos/0srilanka/datos/levels.py:105
+#: recursos/0srilanka/datos/levels.py:106
+#: recursos/0srilanka/datos/levels.py:107
+#: recursos/0srilanka/datos/levels.py:109
+#: recursos/0srilanka/datos/levels.py:111
+#: recursos/0srilanka/datos/levels.py:113
+#: recursos/0srilanka/datos/levels.py:126
+msgid "Eastern"
+msgstr "पूर्व"
+
+#: recursos/0srilanka/datos/0srilanka.py:13
+#: recursos/0srilanka/datos/levels.py:16 recursos/0srilanka/datos/levels.py:34
+#: recursos/0srilanka/datos/levels.py:53
+#: recursos/0srilanka/datos/levels.py:110
+#: recursos/0srilanka/datos/levels.py:112
+#: recursos/0srilanka/datos/levels.py:114
+#: recursos/0srilanka/datos/levels.py:123
+#: recursos/0srilanka/datos/levels.py:125
+#: recursos/0srilanka/datos/levels.py:127
+msgid "Uva"
+msgstr "उवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:14
+#: recursos/0srilanka/datos/levels.py:17 recursos/0srilanka/datos/levels.py:32
+#: recursos/0srilanka/datos/levels.py:51
+#: recursos/0srilanka/datos/levels.py:117
+#: recursos/0srilanka/datos/levels.py:119
+#: recursos/0srilanka/datos/levels.py:120
+#: recursos/0srilanka/datos/levels.py:121
+#: recursos/0srilanka/datos/levels.py:132
+#: recursos/0srilanka/datos/levels.py:133
+#: recursos/0srilanka/datos/levels.py:134
+#: recursos/0srilanka/datos/levels.py:135
+#: recursos/0srilanka/datos/levels.py:136
+#: recursos/0srilanka/datos/levels.py:138
+msgid "Western"
+msgstr "पाश्चात्य"
+
+#: recursos/0srilanka/datos/0srilanka.py:15
+#: recursos/0srilanka/datos/levels.py:18 recursos/0srilanka/datos/levels.py:31
+#: recursos/0srilanka/datos/levels.py:50
+#: recursos/0srilanka/datos/levels.py:118
+#: recursos/0srilanka/datos/levels.py:124
+#: recursos/0srilanka/datos/levels.py:128
+#: recursos/0srilanka/datos/levels.py:137
+#: recursos/0srilanka/datos/levels.py:139
+msgid "Sabaragamuwa"
+msgstr "सबारागमुवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:16
+#: recursos/0srilanka/datos/levels.py:19 recursos/0srilanka/datos/levels.py:30
+#: recursos/0srilanka/datos/levels.py:49
+#: recursos/0srilanka/datos/levels.py:129
+#: recursos/0srilanka/datos/levels.py:130
+#: recursos/0srilanka/datos/levels.py:131
+#: recursos/0srilanka/datos/levels.py:140
+#: recursos/0srilanka/datos/levels.py:141
+#: recursos/0srilanka/datos/levels.py:142
+#: recursos/0srilanka/datos/levels.py:143
+#: recursos/0srilanka/datos/levels.py:144
+#: recursos/0srilanka/datos/levels.py:145
+msgid "Southern"
+msgstr "दक्षिणेकडील"
+
+#: recursos/0srilanka/datos/0srilanka.py:20
+#: recursos/0srilanka/datos/levels.py:29 recursos/0srilanka/datos/levels.py:48
+msgid "Sri Jayewardenepura Kotte"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:21
+#: recursos/0srilanka/datos/levels.py:30 recursos/0srilanka/datos/levels.py:49
+msgid "Galle"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:22
+#: recursos/0srilanka/datos/levels.py:31 recursos/0srilanka/datos/levels.py:50
+msgid "Ratnapura"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:23
+#: recursos/0srilanka/datos/levels.py:32 recursos/0srilanka/datos/levels.py:51
+msgid "Colombo"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:24
+#: recursos/0srilanka/datos/levels.py:33 recursos/0srilanka/datos/levels.py:52
+msgid "Anuradhapura"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:25
+#: recursos/0srilanka/datos/levels.py:34 recursos/0srilanka/datos/levels.py:53
+msgid "Badulla"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:26
+#: recursos/0srilanka/datos/levels.py:35 recursos/0srilanka/datos/levels.py:54
+msgid "Batticaloa"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:27
+#: recursos/0srilanka/datos/levels.py:36 recursos/0srilanka/datos/levels.py:55
+msgid "Kandy"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:28
+#: recursos/0srilanka/datos/levels.py:37 recursos/0srilanka/datos/levels.py:56
+msgid "Kurunegala"
+msgstr "कुरुनेगाला"
+
+#: recursos/0srilanka/datos/0srilanka.py:29
+#: recursos/0srilanka/datos/levels.py:38 recursos/0srilanka/datos/levels.py:57
+msgid "Jaffna"
+msgstr "जाफना"
+
+#: recursos/0srilanka/datos/0srilanka.py:33
+#: recursos/0srilanka/datos/levels.py:58
+msgid "Kankesanturai"
+msgstr "कनकसंतूराई"
+
+#: recursos/0srilanka/datos/0srilanka.py:34
+#: recursos/0srilanka/datos/levels.py:59
+msgid "Point Pedro"
+msgstr "पॉईंट पेड्रो"
+
+#: recursos/0srilanka/datos/0srilanka.py:35
+#: recursos/0srilanka/datos/levels.py:60
+msgid "Kayts"
+msgstr "कायट्स"
+
+#: recursos/0srilanka/datos/0srilanka.py:36
+#: recursos/0srilanka/datos/levels.py:61
+msgid "Elephant Pass"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:37
+#: recursos/0srilanka/datos/levels.py:62
+msgid "Kilinochchi"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:38
+#: recursos/0srilanka/datos/levels.py:63
+msgid "Mullaittivu"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:39
+#: recursos/0srilanka/datos/levels.py:64
+msgid "Puthukkudiyiruppu"
+msgstr "पुथुककुदियिरुप्पु"
+
+#: recursos/0srilanka/datos/0srilanka.py:40
+#: recursos/0srilanka/datos/levels.py:65
+msgid "Vellankulam"
+msgstr "वेल्लानकुलम"
+
+#: recursos/0srilanka/datos/0srilanka.py:41
+#: recursos/0srilanka/datos/levels.py:66
+msgid "Manjulam"
+msgstr "मञ्जुलम"
+
+#: recursos/0srilanka/datos/0srilanka.py:42
+#: recursos/0srilanka/datos/levels.py:67
+msgid "Nedunkeni"
+msgstr "नेदुनकेनि"
+
+#: recursos/0srilanka/datos/0srilanka.py:43
+#: recursos/0srilanka/datos/levels.py:68
+msgid "Puliyankulam"
+msgstr "पुलियानकुलम"
+
+#: recursos/0srilanka/datos/0srilanka.py:44
+#: recursos/0srilanka/datos/levels.py:69
+msgid "Vavuniya"
+msgstr "ववुनिया "
+
+#: recursos/0srilanka/datos/0srilanka.py:45
+#: recursos/0srilanka/datos/levels.py:70
+msgid "Madhu Road"
+msgstr "मधु रोड "
+
+#: recursos/0srilanka/datos/0srilanka.py:46
+#: recursos/0srilanka/datos/levels.py:71
+msgid "Talaimannar"
+msgstr "तलाईमन्नार"
+
+#: recursos/0srilanka/datos/0srilanka.py:47
+#: recursos/0srilanka/datos/levels.py:72
+msgid "Mannar"
+msgstr "मन्नार"
+
+#: recursos/0srilanka/datos/0srilanka.py:48
+#: recursos/0srilanka/datos/levels.py:73
+msgid "Silavatturai"
+msgstr "सिलवटटूरई "
+
+#: recursos/0srilanka/datos/0srilanka.py:49
+#: recursos/0srilanka/datos/levels.py:74
+msgid "Pulmoddai"
+msgstr "पुलमोड़े"
+
+#: recursos/0srilanka/datos/0srilanka.py:50
+#: recursos/0srilanka/datos/levels.py:75
+msgid "Pankulam"
+msgstr "पंकुलम"
+
+#: recursos/0srilanka/datos/0srilanka.py:51
+#: recursos/0srilanka/datos/levels.py:76
+msgid "Nilaveli"
+msgstr "निलावेळी"
+
+#: recursos/0srilanka/datos/0srilanka.py:52
+#: recursos/0srilanka/datos/levels.py:77
+msgid "Trincomalee"
+msgstr "त्रिंकोमाली "
+
+#: recursos/0srilanka/datos/0srilanka.py:53
+#: recursos/0srilanka/datos/levels.py:78
+msgid "Horuwupotana"
+msgstr "होरुवपोतना "
+
+#: recursos/0srilanka/datos/0srilanka.py:54
+#: recursos/0srilanka/datos/levels.py:79
+msgid "Kebitigollewa"
+msgstr "केबिटिगोलवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:55
+#: recursos/0srilanka/datos/levels.py:80
+msgid "Medawachchiya"
+msgstr "मेदावाच्चिया"
+
+#: recursos/0srilanka/datos/0srilanka.py:56
+#: recursos/0srilanka/datos/levels.py:81
+msgid "Hamillewa"
+msgstr "हमिल्लेवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:57
+#: recursos/0srilanka/datos/levels.py:82
+msgid "Pomparippu"
+msgstr "पॉपरिप्पू "
+
+#: recursos/0srilanka/datos/0srilanka.py:58
+#: recursos/0srilanka/datos/levels.py:83
+msgid "Kalpitiya"
+msgstr "कल्पितीय"
+
+#: recursos/0srilanka/datos/0srilanka.py:59
+#: recursos/0srilanka/datos/levels.py:84
+msgid "Puttalam"
+msgstr "पुत्तलम"
+
+#: recursos/0srilanka/datos/0srilanka.py:60
+#: recursos/0srilanka/datos/levels.py:85
+msgid "Maragahewa"
+msgstr "मरगाहेवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:61
+#: recursos/0srilanka/datos/levels.py:86
+msgid "Kekirawa"
+msgstr "केकिरावा "
+
+#: recursos/0srilanka/datos/0srilanka.py:62
+#: recursos/0srilanka/datos/levels.py:87
+msgid "Habarane"
+msgstr "हबराने"
+
+#: recursos/0srilanka/datos/0srilanka.py:63
+#: recursos/0srilanka/datos/levels.py:88
+msgid "Galgamuwa"
+msgstr "गलगंउवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:64
+#: recursos/0srilanka/datos/levels.py:89
+msgid "Mutur"
+msgstr "मुतुर"
+
+#: recursos/0srilanka/datos/0srilanka.py:65
+#: recursos/0srilanka/datos/levels.py:90
+msgid "Kantalai"
+msgstr "कैंटले"
+
+#: recursos/0srilanka/datos/0srilanka.py:66
+#: recursos/0srilanka/datos/levels.py:91
+msgid "Kathiraveli"
+msgstr "कथीरावली "
+
+#: recursos/0srilanka/datos/0srilanka.py:67
+#: recursos/0srilanka/datos/levels.py:92
+msgid "Polonnaruwa"
+msgstr "पोलोन्नरुवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:68
+#: recursos/0srilanka/datos/levels.py:93
+msgid "Valachchenai"
+msgstr "वाळाचेनाइ"
+
+#: recursos/0srilanka/datos/0srilanka.py:69
+#: recursos/0srilanka/datos/levels.py:94
+msgid "Chenkaladi"
+msgstr "छेंकलादि"
+
+#: recursos/0srilanka/datos/0srilanka.py:70
+#: recursos/0srilanka/datos/levels.py:95
+msgid "Dambula"
+msgstr "दाम्बुला"
+
+#: recursos/0srilanka/datos/0srilanka.py:71
+#: recursos/0srilanka/datos/levels.py:96
+msgid "Naula"
+msgstr "नौला"
+
+#: recursos/0srilanka/datos/0srilanka.py:72
+#: recursos/0srilanka/datos/levels.py:97
+msgid "Anamaduwa"
+msgstr "अनामदुवा"
+
+#: recursos/0srilanka/datos/0srilanka.py:73
+#: recursos/0srilanka/datos/levels.py:98
+msgid "Maho"
+msgstr "माहो"
+
+#: recursos/0srilanka/datos/0srilanka.py:74
+#: recursos/0srilanka/datos/levels.py:99
+msgid "Ganewatta"
+msgstr "गनेवाटता"
+
+#: recursos/0srilanka/datos/0srilanka.py:75
+#: recursos/0srilanka/datos/levels.py:100
+msgid "Chilaw"
+msgstr "चिलाव"
+
+#: recursos/0srilanka/datos/0srilanka.py:76
+#: recursos/0srilanka/datos/levels.py:101
+msgid "Kuliyapitiya"
+msgstr "कुलियापीटिया"
+
+#: recursos/0srilanka/datos/0srilanka.py:77
+#: recursos/0srilanka/datos/levels.py:102
+msgid "Maha Oya"
+msgstr "महा ओया"
+
+#: recursos/0srilanka/datos/0srilanka.py:78
+#: recursos/0srilanka/datos/levels.py:103
+msgid "Paddiruppu"
+msgstr "पड़दिरुप्पु "
+
+#: recursos/0srilanka/datos/0srilanka.py:79
+#: recursos/0srilanka/datos/levels.py:104
+msgid "Kehelula"
+msgstr "केहेलुला"
+
+#: recursos/0srilanka/datos/0srilanka.py:80
+#: recursos/0srilanka/datos/levels.py:105
+msgid "Kalmunai"
+msgstr "कालमुनै"
+
+#: recursos/0srilanka/datos/0srilanka.py:81
+#: recursos/0srilanka/datos/levels.py:106
+#, fuzzy
+msgid "Uhana"
+msgstr "हाना"
+
+#: recursos/0srilanka/datos/0srilanka.py:82
+#: recursos/0srilanka/datos/levels.py:107
+msgid "Amparai"
+msgstr "आँपरे"
+
+#: recursos/0srilanka/datos/0srilanka.py:83
+#: recursos/0srilanka/datos/levels.py:108
+msgid "Mahiyangana"
+msgstr "महियांगना"
+
+#: recursos/0srilanka/datos/0srilanka.py:84
+#: recursos/0srilanka/datos/levels.py:109
+msgid "Tirrukkovil"
+msgstr "तिररुक्कोवल"
+
+#: recursos/0srilanka/datos/0srilanka.py:85
+#: recursos/0srilanka/datos/levels.py:110
+msgid "Bibile"
+msgstr "बिबिले "
+
+#: recursos/0srilanka/datos/0srilanka.py:86
+#: recursos/0srilanka/datos/levels.py:111
+msgid "Pottuvil"
+msgstr "पोट्टुविल"
+
+#: recursos/0srilanka/datos/0srilanka.py:87
+#: recursos/0srilanka/datos/levels.py:112
+msgid "Monaragala"
+msgstr "मोनरगला"
+
+#: recursos/0srilanka/datos/0srilanka.py:88
+#: recursos/0srilanka/datos/levels.py:113
+msgid "Okanda"
+msgstr "आकंड़ा"
+
+#: recursos/0srilanka/datos/0srilanka.py:89
+#: recursos/0srilanka/datos/levels.py:114
+msgid "Buttala"
+msgstr "बुत्ताला"
+
+#: recursos/0srilanka/datos/0srilanka.py:90
+#: recursos/0srilanka/datos/levels.py:115
+msgid "Matale"
+msgstr "मतले"
+
+#: recursos/0srilanka/datos/0srilanka.py:91
+#: recursos/0srilanka/datos/levels.py:116
+msgid "Pannala"
+msgstr "पन्नला"
+
+#: recursos/0srilanka/datos/0srilanka.py:92
+#: recursos/0srilanka/datos/levels.py:117
+msgid "Negombo"
+msgstr "नेगोम्बो"
+
+#: recursos/0srilanka/datos/0srilanka.py:93
+#: recursos/0srilanka/datos/levels.py:118
+msgid "Kegalla"
+msgstr "केगल्ला"
+
+#: recursos/0srilanka/datos/0srilanka.py:94
+#: recursos/0srilanka/datos/levels.py:119
+msgid "Gampaha"
+msgstr "गम्पाहा"
+
+#: recursos/0srilanka/datos/0srilanka.py:95
+#: recursos/0srilanka/datos/levels.py:120
+msgid "Ja-Ela"
+msgstr "जा-एला"
+
+#: recursos/0srilanka/datos/0srilanka.py:96
+#: recursos/0srilanka/datos/levels.py:121
+msgid "Avissawella"
+msgstr "अविलसवेल्ला"
+
+#: recursos/0srilanka/datos/0srilanka.py:97
+#: recursos/0srilanka/datos/levels.py:122
+msgid "Nuwara Eliya"
+msgstr "नुवारा एलिया"
+
+#: recursos/0srilanka/datos/0srilanka.py:98
+#: recursos/0srilanka/datos/levels.py:123
+msgid "Haputale"
+msgstr "हापुतले"
+
+#: recursos/0srilanka/datos/0srilanka.py:99
+#: recursos/0srilanka/datos/levels.py:124
+msgid "Balangoda"
+msgstr "बलंगोड़ा "
+
+#: recursos/0srilanka/datos/0srilanka.py:100
+#: recursos/0srilanka/datos/levels.py:125
+msgid "Tellula"
+msgstr "तेल्लूला"
+
+#: recursos/0srilanka/datos/0srilanka.py:101
+#: recursos/0srilanka/datos/levels.py:126
+msgid "Kumana"
+msgstr "कुमाना"
+
+#: recursos/0srilanka/datos/0srilanka.py:102
+#: recursos/0srilanka/datos/levels.py:127
+msgid "Kataragama"
+msgstr "कतारगाम"
+
+#: recursos/0srilanka/datos/0srilanka.py:103
+#: recursos/0srilanka/datos/levels.py:128
+msgid "Embilipitiya"
+msgstr "एम्बिलिपीटिया "
+
+#: recursos/0srilanka/datos/0srilanka.py:104
+#: recursos/0srilanka/datos/levels.py:129
+msgid "Tissamaharama"
+msgstr "तिस्समहारामा"
+
+#: recursos/0srilanka/datos/0srilanka.py:105
+#: recursos/0srilanka/datos/levels.py:130
+msgid "Kirinda"
+msgstr "किरिंदा"
+
+#: recursos/0srilanka/datos/0srilanka.py:106
+#: recursos/0srilanka/datos/levels.py:131
+msgid "Hambontota"
+msgstr "हंबन्टोटा"
+
+#: recursos/0srilanka/datos/0srilanka.py:107
+#: recursos/0srilanka/datos/levels.py:132
+msgid "Moratuwa"
+msgstr "मोरटवा "
+
+#: recursos/0srilanka/datos/0srilanka.py:108
+#: recursos/0srilanka/datos/levels.py:133
+msgid "Panadura"
+msgstr "पनडुरा "
+
+#: recursos/0srilanka/datos/0srilanka.py:109
+#: recursos/0srilanka/datos/levels.py:134
+msgid "Horana"
+msgstr "होरना "
+
+#: recursos/0srilanka/datos/0srilanka.py:110
+#: recursos/0srilanka/datos/levels.py:135
+msgid "Kalutara"
+msgstr "कलउतारा"
+
+#: recursos/0srilanka/datos/0srilanka.py:111
+#: recursos/0srilanka/datos/levels.py:136
+msgid "Beruwala"
+msgstr "बेरुवाला "
+
+#: recursos/0srilanka/datos/0srilanka.py:112
+#: recursos/0srilanka/datos/levels.py:137
+msgid "Pelmadulla"
+msgstr "पेलमदुल्ला "
+
+#: recursos/0srilanka/datos/0srilanka.py:113
+#: recursos/0srilanka/datos/levels.py:138
+msgid "Matugama"
+msgstr "माटुगमा "
+
+#: recursos/0srilanka/datos/0srilanka.py:114
+#: recursos/0srilanka/datos/levels.py:139
+msgid "Rakwana"
+msgstr "रक्वाना "
+
+#: recursos/0srilanka/datos/0srilanka.py:115
+#: recursos/0srilanka/datos/levels.py:140
+msgid "Deniyaya"
+msgstr "देनियाया "
+
+#: recursos/0srilanka/datos/0srilanka.py:116
+#: recursos/0srilanka/datos/levels.py:141
+msgid "Ambalangoda"
+msgstr "अम्बालानगोडा "
+
+#: recursos/0srilanka/datos/0srilanka.py:117
+#: recursos/0srilanka/datos/levels.py:142
+msgid "Udugama"
+msgstr "उदगम"
+
+#: recursos/0srilanka/datos/0srilanka.py:118
+#: recursos/0srilanka/datos/levels.py:143
+msgid "Akuressa"
+msgstr "अकुरेसा"
+
+#: recursos/0srilanka/datos/0srilanka.py:119
+#: recursos/0srilanka/datos/levels.py:144
+msgid "Tangalla"
+msgstr "टांगला"
+
+#: recursos/0srilanka/datos/0srilanka.py:120
+#: recursos/0srilanka/datos/levels.py:145
+msgid "Matara"
+msgstr "मात्रा"
+
+#: recursos/0srilanka/datos/0srilanka.py:124
+msgid "Capital:"
+msgstr "राजधानी:"
+
+#: recursos/0srilanka/datos/0srilanka.py:124
+msgid "Sri Jayawardenapura Kotte"
+msgstr "श्री जयवर्देनापुरा कुत्ते "
+
+#: recursos/0srilanka/datos/0srilanka.py:125
+msgid "(6º54' N - 79º54' W)"
+msgstr " (६º५४' न - ७९º५४' व) "
+
+#: recursos/0srilanka/datos/0srilanka.py:126
+msgid "Language:"
+msgstr "भाषा :"
+
+#: recursos/0srilanka/datos/0srilanka.py:126
+msgid "Sinhala"
+msgstr "सिंहला"
+
+#: recursos/0srilanka/datos/0srilanka.py:126
+msgid "Tamil"
+msgstr "तमिळ"
+
+#: recursos/0srilanka/datos/0srilanka.py:127
+msgid "Government:"
+msgstr "सरकारः"
+
+#: recursos/0srilanka/datos/0srilanka.py:127
+msgid "Semi-Presidential republic"
+msgstr "अर्ध-राष्ट्रपती प्रजासत्ताक"
+
+#: recursos/0srilanka/datos/0srilanka.py:128
+msgid "President:"
+msgstr "राष्ट्राध्यक्ष"
+
+#: recursos/0srilanka/datos/0srilanka.py:128
+msgid "Mahinda Rajapaksa"
+msgstr "महिंदा राजपक्षे"
+
+#: recursos/0srilanka/datos/0srilanka.py:129
+msgid "Prime Minister:"
+msgstr "पंतप्रधान:"
+
+#: recursos/0srilanka/datos/0srilanka.py:129
+msgid "D. M. Jayaratne"
+msgstr "डी. म. जयरत्ने "
+
+#: recursos/0srilanka/datos/0srilanka.py:130
+msgid "Independence:"
+msgstr "स्वातंत्र्य:"
+
+#: recursos/0srilanka/datos/0srilanka.py:130
+msgid "from the United Kingdom"
+msgstr "युनायटेड किंगडम कडून"
+
+#: recursos/0srilanka/datos/0srilanka.py:131
+#, python-format
+msgid "declared: %s"
+msgstr "घोषित: %s"
+
+#: recursos/0srilanka/datos/0srilanka.py:131
+msgid "4 of february of 1948"
+msgstr "१९४८ च्या फेब्रुवारी ४"
+
+#: recursos/0srilanka/datos/0srilanka.py:132
+#, python-format
+msgid "recognized: %s"
+msgstr "ओळखले: %s"
+
+#: recursos/0srilanka/datos/0srilanka.py:132
+msgid "22 of may of 1972"
+msgstr "१९७२ च्या २२ मई"
+
+#: recursos/0srilanka/datos/0srilanka.py:133
+msgid "Area:"
+msgstr "क्षेत्र:"
+
+#: recursos/0srilanka/datos/0srilanka.py:133
+msgid "65.610 km² (122nd)"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:134
+msgid "Population:"
+msgstr "लोकसंख्या:"
+
+#: recursos/0srilanka/datos/0srilanka.py:134
+msgid "20.277.597 (57th)"
+msgstr "२०.२७७.५९७ (५७ वा )"
+
+#: recursos/0srilanka/datos/0srilanka.py:135
+msgid "GDP:"
+msgstr "जीडीपी :"
+
+#: recursos/0srilanka/datos/0srilanka.py:135
+msgid "USD 59.095 billion (68th)"
+msgstr ""
+
+#: recursos/0srilanka/datos/0srilanka.py:136
+msgid "HDI:"
+msgstr "एचडीआय:"
+
+#: recursos/0srilanka/datos/0srilanka.py:136
+msgid "Medium - 0,691 (97th)"
+msgstr "मध्यम - ०,६९१  (९७ वा)"
+
+#: recursos/0srilanka/datos/0srilanka.py:137
+msgid "Currency:"
+msgstr "चलनी नाणे :"
+
+#: recursos/0srilanka/datos/0srilanka.py:137
+msgid "Sri Lankan Rupee"
+msgstr "श्रीलंका रुपया"
+
+#: recursos/0srilanka/datos/explorations.py:6
+#: recursos/0srilanka/datos/levels.py:7
+msgid "Provinces"
+msgstr "प्रांत"
+
+#: recursos/0srilanka/datos/explorations.py:13
+#: recursos/0srilanka/datos/levels.py:25
+msgid "Provincial capitals"
+msgstr "प्रांतीय राजधानी"
+
+#: recursos/0srilanka/datos/explorations.py:20
+#: recursos/0srilanka/datos/levels.py:44
+msgid "Cities"
+msgstr "शहरे"
+
+#: recursos/0srilanka/datos/explorations.py:27
+msgid "Waterways"
+msgstr "जलमार्ग"
+
+#: recursos/0srilanka/datos/explorations.py:34
+msgid "Routes"
+msgstr "मार्गों"
+
+#: recursos/0srilanka/datos/levels.py:29 recursos/0srilanka/datos/levels.py:48
+msgid "It's the capital of Sri Lanka"
+msgstr "ही श्रीलंकेची राजधानी आहे"
+
+#: recursos/0srilanka/datos/levels.py:30 recursos/0srilanka/datos/levels.py:31
+#: recursos/0srilanka/datos/levels.py:32 recursos/0srilanka/datos/levels.py:33
+#: recursos/0srilanka/datos/levels.py:34 recursos/0srilanka/datos/levels.py:35
+#: recursos/0srilanka/datos/levels.py:36 recursos/0srilanka/datos/levels.py:37
+#: recursos/0srilanka/datos/levels.py:38 recursos/0srilanka/datos/levels.py:49
+#: recursos/0srilanka/datos/levels.py:50 recursos/0srilanka/datos/levels.py:51
+#: recursos/0srilanka/datos/levels.py:52 recursos/0srilanka/datos/levels.py:53
+#: recursos/0srilanka/datos/levels.py:54 recursos/0srilanka/datos/levels.py:55
+#: recursos/0srilanka/datos/levels.py:56 recursos/0srilanka/datos/levels.py:57
+#: recursos/0srilanka/datos/levels.py:58 recursos/0srilanka/datos/levels.py:59
+#: recursos/0srilanka/datos/levels.py:60 recursos/0srilanka/datos/levels.py:61
+#: recursos/0srilanka/datos/levels.py:62 recursos/0srilanka/datos/levels.py:63
+#: recursos/0srilanka/datos/levels.py:64 recursos/0srilanka/datos/levels.py:65
+#: recursos/0srilanka/datos/levels.py:66 recursos/0srilanka/datos/levels.py:67
+#: recursos/0srilanka/datos/levels.py:68 recursos/0srilanka/datos/levels.py:69
+#: recursos/0srilanka/datos/levels.py:70 recursos/0srilanka/datos/levels.py:71
+#: recursos/0srilanka/datos/levels.py:72 recursos/0srilanka/datos/levels.py:73
+#: recursos/0srilanka/datos/levels.py:74 recursos/0srilanka/datos/levels.py:75
+#: recursos/0srilanka/datos/levels.py:76 recursos/0srilanka/datos/levels.py:77
+#: recursos/0srilanka/datos/levels.py:78 recursos/0srilanka/datos/levels.py:79
+#: recursos/0srilanka/datos/levels.py:80 recursos/0srilanka/datos/levels.py:81
+#: recursos/0srilanka/datos/levels.py:82 recursos/0srilanka/datos/levels.py:83
+#: recursos/0srilanka/datos/levels.py:84 recursos/0srilanka/datos/levels.py:85
+#: recursos/0srilanka/datos/levels.py:86 recursos/0srilanka/datos/levels.py:87
+#: recursos/0srilanka/datos/levels.py:88 recursos/0srilanka/datos/levels.py:89
+#: recursos/0srilanka/datos/levels.py:90 recursos/0srilanka/datos/levels.py:91
+#: recursos/0srilanka/datos/levels.py:92 recursos/0srilanka/datos/levels.py:93
+#: recursos/0srilanka/datos/levels.py:94 recursos/0srilanka/datos/levels.py:95
+#: recursos/0srilanka/datos/levels.py:96 recursos/0srilanka/datos/levels.py:97
+#: recursos/0srilanka/datos/levels.py:98 recursos/0srilanka/datos/levels.py:99
+#: recursos/0srilanka/datos/levels.py:100
+#: recursos/0srilanka/datos/levels.py:101
+#: recursos/0srilanka/datos/levels.py:102
+#: recursos/0srilanka/datos/levels.py:103
+#: recursos/0srilanka/datos/levels.py:104
+#: recursos/0srilanka/datos/levels.py:105
+#: recursos/0srilanka/datos/levels.py:106
+#: recursos/0srilanka/datos/levels.py:107
+#: recursos/0srilanka/datos/levels.py:108
+#: recursos/0srilanka/datos/levels.py:109
+#: recursos/0srilanka/datos/levels.py:110
+#: recursos/0srilanka/datos/levels.py:111
+#: recursos/0srilanka/datos/levels.py:112
+#: recursos/0srilanka/datos/levels.py:113
+#: recursos/0srilanka/datos/levels.py:114
+#: recursos/0srilanka/datos/levels.py:115
+#: recursos/0srilanka/datos/levels.py:116
+#: recursos/0srilanka/datos/levels.py:117
+#: recursos/0srilanka/datos/levels.py:118
+#: recursos/0srilanka/datos/levels.py:119
+#: recursos/0srilanka/datos/levels.py:120
+#: recursos/0srilanka/datos/levels.py:121
+#: recursos/0srilanka/datos/levels.py:122
+#: recursos/0srilanka/datos/levels.py:123
+#: recursos/0srilanka/datos/levels.py:124
+#: recursos/0srilanka/datos/levels.py:125
+#: recursos/0srilanka/datos/levels.py:126
+#: recursos/0srilanka/datos/levels.py:127
+#: recursos/0srilanka/datos/levels.py:128
+#: recursos/0srilanka/datos/levels.py:129
+#: recursos/0srilanka/datos/levels.py:130
+#: recursos/0srilanka/datos/levels.py:131
+#: recursos/0srilanka/datos/levels.py:132
+#: recursos/0srilanka/datos/levels.py:133
+#: recursos/0srilanka/datos/levels.py:134
+#: recursos/0srilanka/datos/levels.py:135
+#: recursos/0srilanka/datos/levels.py:136
+#: recursos/0srilanka/datos/levels.py:137
+#: recursos/0srilanka/datos/levels.py:138
+#: recursos/0srilanka/datos/levels.py:139
+#: recursos/0srilanka/datos/levels.py:140
+#: recursos/0srilanka/datos/levels.py:141
+#: recursos/0srilanka/datos/levels.py:142
+#: recursos/0srilanka/datos/levels.py:143
+#: recursos/0srilanka/datos/levels.py:144
+#: recursos/0srilanka/datos/levels.py:145
+#, python-format
+msgid "It's in %s"
+msgstr ""
+
+# translations change with context of use
+#: recursos/comun/datos/commons.py:10
+msgid "We have to find"
+msgstr "आपल्याला शोधावे लागेल"
+
+#: recursos/comun/datos/commons.py:11
+msgid "Now we have to find"
+msgstr "आता आपल्याला शोधायचे आहे"
+
+#: recursos/comun/datos/commons.py:12
+msgid "We need to find"
+msgstr "आम्हाला शोधणे आवश्यक आहे"
+
+#: recursos/comun/datos/commons.py:16
+msgid "Can you tell me where it is?"
+msgstr "ते कुठे आहे ते मला सांगता येईल का?"
+
+#: recursos/comun/datos/commons.py:17
+msgid "Where is it?"
+msgstr "ते कुठे आहे?"
+
+#: recursos/comun/datos/commons.py:18
+msgid "Can you show me where it is?"
+msgstr "ते कुठे आहे ते मला दर्शवू शकता?"
+
+#: recursos/comun/datos/commons.py:19
+msgid "Can you find it?"
+msgstr "तुला सापडेल का?"
+
+#: recursos/comun/datos/commons.py:23
+msgid "Very well!"
+msgstr "खूप छान!"
+
+#: recursos/comun/datos/commons.py:24
+msgid "Brilliant!"
+msgstr ""
+
+#: recursos/comun/datos/commons.py:25
+msgid "You found it!"
+msgstr "आपल्याला ते सापडले!"
+
+#: recursos/comun/datos/commons.py:26
+msgid "Yes!"
+msgstr "होय!"
+
+#: recursos/comun/datos/commons.py:30
+msgid "No, that is not correct"
+msgstr "नाही, हे बरोबर नाही"
+
+#: recursos/comun/datos/commons.py:31
+msgid "No, it is not there"
+msgstr "नाही, ते तेथे नाही"
+
+#: recursos/comun/datos/commons.py:32
+msgid "No, that seems to be wrong"
+msgstr "नाही, ते चुकीचे आहे असे दिसते"
+
+#: recursos/comun/datos/commons.py:33
+msgid "That is not correct"
+msgstr "ते बरोबर नाही"
+
+#: recursos/comun/datos/commons.py:37
+msgid ""
+"Now I'm ready\n"
+"for tomorrow...\n"
+"I'm going to play...\n"
+"Thanks for your help!"
+msgstr ""
+"आता मी तयार आहे उद्यासाठी .... मी खेळणार आहे ....आपण मदत केल्याबद्दल धन्यवाद!"
+
+#: recursos/comun/datos/commons.py:38
+msgid ""
+"We made it!\n"
+"I'm going to play ball...\n"
+"Bye and thanks\n"
+"for helping me!"
+msgstr ""
+"आम्ही आमच्या ध्येय गाठा!मी बॉल खेळणार आहे ...नमस्कार आणि आभारमला मदत "
+"केल्याबद्दल!"
+
+#: recursos/comun/datos/commons.py:39
+msgid ""
+"We did it!\n"
+"I'm ready for tomorrow...\n"
+"I'm playing a while...\n"
+"Until next time!"
+msgstr ""
+
+#: recursos/comun/datos/commons.py:43
+#, fuzzy
+msgid ""
+"Better luck next time\n"
+"I'll play a while...\n"
+"Thanks!"
+msgstr "पुढील वेळी शुभेच्छामी थोडा वेळ खेळू ...धन्यवाद!"
+
+#: recursos/comun/datos/commons.py:44
+msgid ""
+"The next time will be better\n"
+"I'm going to play ball...\n"
+"Thanks!"
+msgstr "पुढची वेळ चांगली होईलमी बॉल खेळणार आहे ...धन्यवाद!"
+
+#: recursos/comun/datos/commons.py:45
+msgid ""
+"Please try again...\n"
+"I'm going to play...\n"
+"Thanks!"
+msgstr "कृपया पुन्हा प्रयत्न करा...मी खेळणार आहे ...धन्यवाद!"
+
+#: recursos/comun/datos/commons.py:49
+msgid "Author: Alan Aguiar"
+msgstr "लेखक: एलन अगुइर"
+
+#: recursos/comun/datos/commons.py:50
+msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
+msgstr "येथे दुरूस्ती, टिप्पण्या किंवा सूचना पाठवा: alanjas@hotmail.com"
+
+#: recursos/comun/datos/commons.py:52
+msgid "This program is free software developed by the community"
+msgstr "हा प्रोग्राम समाजाद्वारे विकसित केलेला एक विनामूल्य सॉफ्टवेअर आहे"
+
+#: recursos/comun/datos/commons.py:53
+msgid "For more information visit http://ceibaljam.org"
+msgstr "अधिक माहितीसाठी http://ceibaljam.org वर जा"
+
+#: recursos/comun/datos/commons.py:55
+msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
+msgstr "हा कार्यक्रम 'कोनोझको उरुग्वे' वर आधारित आहे (लेखक: गॅब्रिएल इरीआ)"
+
+#: recursos/comun/datos/commons.py:56
+msgid "Sounds downloaded from freesound.org: btn117.wav courtesy of junggle."
+msgstr ""
+
+#: recursos/comun/datos/commons.py:57
+msgid "Font: Share-Regular.ttf of urbanfonts.com"
+msgstr ""
